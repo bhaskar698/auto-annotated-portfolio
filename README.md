@@ -1,3 +1,4 @@
+![1000072841](https://github.com/user-attachments/assets/fa22eb3a-e5d4-414a-85d1-8ed7790d97fd)
 # Netlify Developer Portfolio Starter (auto-annotated)
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
